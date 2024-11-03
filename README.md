@@ -1,2 +1,2 @@
-# YumBox-FDP
+# YumBox
 A Food Delivery Platform
